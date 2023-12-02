@@ -11,18 +11,19 @@
 <br />
 <p align="left">
  <a href="https://www.linkedin.com/in/christian-lee37/" target="_blank" rel="noopener noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=linkedin", alt="Linkedin" height="40" style="vertical-align:top; margin:4px; margin-right:10px">
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
  </a>
  <a href="mailto:christianlee4037@gmail.com"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin: 4px; margin-left: 10px">
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
  </a>
 </p>
+<br />
 
 ## 🧰 Languages and Tools:
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,express,babel,jest,vscode,bash,git,github,blender,ai,aws,mongodb,mysql,nodejs,postgres,postman,sequelize,webpack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,express,babel,jest,vscode,bash,git,github,ai,aws,mongodb,mysql,nodejs,postgres,postman,sequelize,webpack" />
   </a>
 </p>
 
