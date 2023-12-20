@@ -4,7 +4,6 @@
 </div>
 
 ## 🎓 I'm a Junior Developer Student at Galvanize and have 5 years of Expereince in Project & Customer Success Manager in the Tech Industry
-- 🌱 I’m currently learning intermidiate full stack devopment from Galvanize.
 
 
 ## ✉ Find me on:
