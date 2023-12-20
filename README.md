@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=clee4037.clee4037"/> <span><img src="https://img.shields.io/github/followers/clee4037?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm a Junior Developer student with Galvanize and have 5 years as Project & Customer Success Manager in Tech
+## 🎓 I'm a Junior Developer Student at Galvanize and have 5 years of Expereince in Project & Customer Success Manager in the Tech Industry
 - 🌱 I’m currently learning intermidiate full stack devopment from Galvanize.
 
 
