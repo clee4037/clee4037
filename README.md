@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Clee4037 but you can call me Christian 😁 
+## Hi 👋 I'm Christian! 😁 
 <div>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=clee4037.clee4037"/> <span><img src="https://img.shields.io/github/followers/clee4037?label=Followers&logo=Github"/></span>
 </div>
